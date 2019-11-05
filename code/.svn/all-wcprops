@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/12/trunk/code
+END
+registries_utils.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/code/registries_utils.m
+END
+em.m
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/12/trunk/code/em.m
+END
+startup.m
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/code/startup.m
+END
+eval_utils.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/12/trunk/code/eval_utils.m
+END
+dpp_kl_div.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/code/dpp_kl_div.m
+END
+elem_symm_polys.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/code/elem_symm_polys.m
+END
+decompose.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/code/decompose.m
+END
+registries_test.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/12/trunk/code/registries_test.m
+END
+opt_utils.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/12/trunk/code/opt_utils.m
+END
+sample_dpp.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/code/sample_dpp.m
+END
+k_greedy_map.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/code/k_greedy_map.m
+END
+sample_points_via_K.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/code/sample_points_via_K.m
+END
+K_ascent.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/12/trunk/code/K_ascent.m
+END
+registries_eval.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/12/trunk/code/registries_eval.m
+END
+sample_k.m
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/code/sample_k.m
+END
+sample_dpp_via_K.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/code/sample_dpp_via_K.m
+END
+EqualByValueIntArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/code/EqualByValueIntArray.java
+END
